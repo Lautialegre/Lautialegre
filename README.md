@@ -9,7 +9,6 @@
 - 🎓 I'm a systems engineering student
 - ⚡ I love programming and books
 - 🕹️ In my free time, I enjoy playing video games and hanging out with friends 🏃‍♂️☕
-- 🌱 Currently learning Wollok <img src="https://avatars.githubusercontent.com/u/63221139?s=200&v=4" alt="Wollok" width="20"/>   at university .
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 #### Languages and Tools 
@@ -17,7 +16,7 @@
  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
   <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
-  <code><img height="25" src="https://avatars.githubusercontent.com/u/63221139?s=200&v=4" alt="Wollok"></code> 
+ 
  <p>
 
   
